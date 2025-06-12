@@ -14,15 +14,14 @@ Edición de información de usuarios existentes
 
 Eliminación de usuarios
 
-Validación de entradas
-
-Interfaz sencilla (CLI, Web o API, según implementación)
 
 
 🚀 Tecnologías utilizadas
 
-Lenguaje: Python / JavaScript / Java / etc.
-
-Base de datos: SQLite / MySQL / PostgreSQL / MongoDB / etc.
-
-Framework (opcional): Flask / Express / Spring Boot / etc.
+🗂️dashboard.htm
+        🗂️  index.html
+        🗂️  register.html
+        🗂️  script.js
+         🗂️ style.css
+         ESTE README FUE CREADO POR GABO Y KEVIN 🤵‍♂️
+          
