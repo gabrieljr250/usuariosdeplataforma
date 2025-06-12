@@ -1,2 +1,2 @@
-# usuariosdeplataforma
-este sitio web nos  permite guardar diferentes usuarios 
+# gestiondeusuarios
+Sistema basico en html, js y css que gestiona usuarios en un sistema.
