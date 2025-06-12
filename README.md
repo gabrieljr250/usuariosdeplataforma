@@ -24,4 +24,26 @@ Eliminación de usuarios
         🗂️  script.js
          🗂️ style.css
          ESTE README FUE CREADO POR GABO Y KEVIN 🤵‍♂️
+         📌 LO MEJOR DE ESTE SITIO WEB 
+         EL ORDEN DE USUARIOS
+         ADMINISTRACION DE CONTRASEÑAS
+         SEFURIDAD AL REGISTRARSE
+         INFORMACION SEGURA
+
+         ## 🧠 Ideal para...
+
+- Estudiantes aprendiendo desarrollo web  
+- Desarrolladores que quieren practicar lógica de JS sin frameworks  
+- Crear un MVP rápido de sistema de usuarios  
+- ¡Curiosos que quieran ver cómo funciona todo desde cero!
+# 🚧 En desarrollo
+
+Este es un proyecto en fase inicial. ¡Se aceptan ideas, mejoras y bugs reportados!
+
+📌 Próximas funcionalidades PENSADAS EN LOS CREADORES axel gabriel y cerdini juarez
+- 🔐 Login con validación
+- 🗑️ Eliminar usuarios
+- ✏️ Editar usuarios
+- 🌙 Modo oscuro
+
           
