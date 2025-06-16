@@ -36,3 +36,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+//comentario de gabo
+este codigo es para el registro y cotraseña
+
